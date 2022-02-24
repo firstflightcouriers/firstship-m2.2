@@ -1,11 +1,12 @@
 {
-    "name": "bhaveshpp/magento2-firstflight-firstship",
+    "name": "masterofmagento/magento2-firstflight-firstship-m2.2",
     "description": "Magento 2 First Flight extension",
     "type": "magento2-module",
     "version": "1.0.0",  
     "require": {
-        "php": "~7.0.0||~7.1.0", 
-         "zendframework/zend-barcode": "2.8.0"  
+         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0",
+         "zendframework/zend-barcode": "2.8.0",
+         "magento/framework": "101.0.*"
     },
     "license": [
           "OSL-3.0",
